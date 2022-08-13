@@ -5,7 +5,6 @@ import java.time.ZoneId;
 import java.util.Date;
 
 public class DateUtils {
-
     private DateUtils() {
         throw new AssertionError("Não há instâncias");
     }
