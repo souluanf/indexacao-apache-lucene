@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <lucene.version>9.3.0</lucene.version>
         <weld.version>5.0.1.Final</weld.version>
-        <jackson.version>2.13.3</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <logging.version>2.18.0</logging.version>
     </properties>
 
